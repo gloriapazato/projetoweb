@@ -1,0 +1,90 @@
+/*Pagina Historia */ 
+.Fundo-Historia{
+	background-color: #711A2C;
+	margin-left: auto;
+    margin-right: auto;
+	width: 100%;
+	text-align: center;
+
+}
+
+.Texto-historia{
+	color: #fff;
+	font-weight: bold;
+	font-size: 25px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.borda-historia{
+	margin-left: auto;
+    margin-right: auto;
+	width: 40%;
+	border-bottom: #fff solid 3px;
+	margin-bottom: 10px;
+}
+.altura-carrosel{
+	padding-bottom: 10px;
+}
+.fundo-h2{
+	margin-left: auto;
+    margin-right: auto;
+	width: 40%;
+	border: #fff solid 2px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	border-radius: 5%;
+	background-color: #076C44;
+}
+
+.h2-titulo{
+	color: #fff;
+
+}
+
+.fundo2-historia{
+padding-top: 10px;
+background-color: #5fb16a;
+}
+
+.p-historia{
+	color: #fff;
+	margin-left: 20%;
+    margin-right: 20%;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.myButton-historia {
+	background-color:#f7ee3b;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton-historia:hover {
+	background-color:#ffffff;
+}
+.myButton-historia:active {
+	position:relative;
+	top:1px;
+}
+
+.borda-informacao{
+	margin-left: auto;
+    margin-right: auto;
+	width: 50%;
+	border: black solid 2px;
+	margin-bottom: 10px;
+	margin-top: 30px;
+	padding: auto;
+}
+.informacao{
+	color: #fff;
+	margin-left: 20%;
+    margin-right: 20%;
+	font-size: 20px;
+}
